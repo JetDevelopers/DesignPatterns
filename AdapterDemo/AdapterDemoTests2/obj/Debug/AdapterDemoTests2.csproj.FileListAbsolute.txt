@@ -1,0 +1,14 @@
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\obj\Debug\AdapterDemoTests2.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\AdapterDemoTests2.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\AdapterDemoTests2.pdb
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\AdapterDemo.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\AdapterDemo.pdb
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\obj\Debug\AdapterDemoTests2.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemoTests2\obj\Debug\AdapterDemoTests2.pdb

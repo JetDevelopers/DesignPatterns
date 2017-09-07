@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDemo", "AdapterDemo\AdapterDemo.csproj", "{CCCD7A28-BFBE-4F0F-8C70-58DAE565EBCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDemoTests", "AdapterDemoTests\AdapterDemoTests.csproj", "{C9728A80-F037-4BEA-8C2B-2C65C0153490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDemoTests2", "AdapterDemoTests2\AdapterDemoTests2.csproj", "{61A8589D-98D8-454C-A7BD-0EF17621B514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCCD7A28-BFBE-4F0F-8C70-58DAE565EBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCD7A28-BFBE-4F0F-8C70-58DAE565EBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCD7A28-BFBE-4F0F-8C70-58DAE565EBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCD7A28-BFBE-4F0F-8C70-58DAE565EBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9728A80-F037-4BEA-8C2B-2C65C0153490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9728A80-F037-4BEA-8C2B-2C65C0153490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9728A80-F037-4BEA-8C2B-2C65C0153490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9728A80-F037-4BEA-8C2B-2C65C0153490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A8589D-98D8-454C-A7BD-0EF17621B514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A8589D-98D8-454C-A7BD-0EF17621B514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A8589D-98D8-454C-A7BD-0EF17621B514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A8589D-98D8-454C-A7BD-0EF17621B514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemo\bin\Debug\AdapterDemo.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemo\bin\Debug\AdapterDemo.pdb
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemo\obj\Debug\AdapterDemo.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemo\obj\Debug\AdapterDemo.dll
+c:\users\ibm_admin\documents\visual studio 2017\Projects\AdapterDemo\AdapterDemo\obj\Debug\AdapterDemo.pdb

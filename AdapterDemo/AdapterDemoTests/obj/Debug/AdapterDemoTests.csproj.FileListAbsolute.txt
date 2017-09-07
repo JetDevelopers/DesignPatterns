@@ -1,0 +1,8 @@
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\AdapterDemo\AdapterDemoTests\bin\Debug\AdapterDemoTests.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\AdapterDemo\AdapterDemoTests\bin\Debug\AdapterDemoTests.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\AdapterDemo\AdapterDemoTests\bin\Debug\AdapterDemo.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\AdapterDemo\AdapterDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\AdapterDemo\AdapterDemoTests\bin\Debug\AdapterDemo.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\AdapterDemo\AdapterDemoTests\obj\Debug\AdapterDemoTests.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\AdapterDemo\AdapterDemoTests\obj\Debug\AdapterDemoTests.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2017\Projects\AdapterDemo\AdapterDemoTests\obj\Debug\AdapterDemoTests.pdb
